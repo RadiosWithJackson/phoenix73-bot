@@ -26,4 +26,4 @@ These terms may be updated as the bot changes. Continued use of the bot after ch
 
 ## Contact
 
-For questions, removal requests, or access issues, contact the Discord server owner or the person operating the Phoenix G4 bot.
+For questions, removal requests, or access issues, contact the Discord server owner or the person operating the Phoenix 73 bot.
